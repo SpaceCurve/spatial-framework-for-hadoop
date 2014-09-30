@@ -1,3 +1,5 @@
+**BRANCH** for supporting SpaceCurve GeoJSON Hive SerDes
+
 [![Build Status](https://travis-ci.org/Esri/spatial-framework-for-hadoop.png?branch=master)](https://travis-ci.org/Esri/spatial-framework-for-hadoop)
 # spatial-framework-for-hadoop
 
